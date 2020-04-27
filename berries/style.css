@@ -1,0 +1,42 @@
+.navbar {
+    background-image: url(img/bg2.jpg);
+    background-size: cover;
+}
+
+.navbar-brand-center {
+    position: absolute;
+    left: 44%;
+    display: block;
+    width: 160px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+.jumbotron {
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+    height: 750px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+    color: glue;
+    margin-top: 200px;
+}
+
+
+.jumbotron .btn {
+    color: dimgray;
+    background: white;
+    border-color: pink;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footer {
+    background-size: cover;
+}
+
